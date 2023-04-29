@@ -32,3 +32,12 @@ text-align: center;
 border: 1px solid brown;
 border-collapse: collapse;
 }
+
+header a {
+    color: black;
+    font-size: 35px;
+    text-decoration: none;
+    border: 2px solid black;
+    background: blye;
+    border-radius: 10px;
+}
